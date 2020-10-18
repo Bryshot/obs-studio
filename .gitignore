@@ -100,3 +100,7 @@ tags
 .DS_Store
 */.DS_Store
 */**/.DS_Store
+*.txt
+UI/frontend-plugins/CMakeLists.txt
+UI/frontend-plugins/SceneSwitcher/.clang-format
+UI/frontend-plugins/SceneSwitcher/.github/workflows/build.yml
